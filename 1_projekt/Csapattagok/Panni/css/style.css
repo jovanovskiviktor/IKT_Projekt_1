@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     margin: 20px;
-    margin-top: 2px;
+    margin-top: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 350%;
@@ -15,4 +15,20 @@ body{
 nav{
     background-color: #445D48;
 }
+h2{
+    color: #001524;
+    padding:20px;
+}
 
+#bolognese img{
+    max-height: 600px;
+    float: right;
+}
+
+
+#bolognese{
+    margin-left: 10px;
+}
+p{
+    font-size: 120%;
+}

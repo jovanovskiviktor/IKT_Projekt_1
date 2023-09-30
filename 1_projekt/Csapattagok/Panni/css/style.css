@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 350%;
+    background-color: #001524;
+    color: #DAC0A3;
+    box-shadow: 2px 2px 3px #DAC0A3;
+}
+body{
+    background-color: #F8F0E5;
+}
+nav{
+    background-color: #445D48;
+}
+

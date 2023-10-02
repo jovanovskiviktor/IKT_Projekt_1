@@ -7,13 +7,17 @@ h1{
     font-size: 350%;
     background-color: #001524;
     color: #DAC0A3;
-    box-shadow: 2px 2px 3px #DAC0A3;
+    box-shadow: 5px 5px 5px #DAC0A3;
 }
 body{
     background-color: #F8F0E5;
 }
-nav{
+nav, footer{
     background-color: #445D48;
+    padding: 10px;
+    padding-top: 15px;
+    text-align: center;
+    color: #DAC0A3;
 }
 h2{
     color: #001524;
@@ -31,4 +35,13 @@ h2{
 }
 p{
     font-size: 120%;
+}
+
+img{
+    border-radius: 20px;
+    box-shadow: 5px 5px 3px grey;
+    max-height: 500px;
+    margin-right: 0px;
+    margin-left: 300px;
+    margin-top: 0px;
 }

@@ -9,9 +9,11 @@ h1{
     color: #DAC0A3;
     box-shadow: 5px 5px 5px #DAC0A3;
 }
+
 body{
     background-color: #F8F0E5;
 }
+
 nav, footer{
     background-color: #445D48;
     padding: 10px;
@@ -19,20 +21,25 @@ nav, footer{
     text-align: center;
     color: #DAC0A3;
 }
+
 h2{
     color: #001524;
     padding:20px;
 }
 
-#bolognese img{
+#bolognese img {
     max-height: 600px;
     float: right;
 }
 
+#aranygaluska img {
+    max-height: 600px;
+}
 
-#bolognese{
+#bolognese, #aranygaluska{
     margin-left: 10px;
 }
+
 p{
     font-size: 120%;
 }
@@ -44,4 +51,8 @@ img{
     margin-right: 0px;
     margin-left: 300px;
     margin-top: 0px;
+}
+
+h3 {
+    font-size: 140%;
 }

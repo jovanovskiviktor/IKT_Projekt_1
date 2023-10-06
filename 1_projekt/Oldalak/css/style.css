@@ -14,6 +14,7 @@ h1{
 body{
     background-color: #F8F0E5;
     margin: auto;
+    width: 80%;
 }
 
 nav, footer{
@@ -35,6 +36,17 @@ p{
     text-align: center;
 }
 
-.cards{
-    margin: auto;
+.card{
+    margin: 10px;
+}
+
+.cardbody{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.card img{
+    width: auto;
+    display: block;
 }

@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 350%;
+    background-color: #001524;
+    color: #DAC0A3;
+    box-shadow: 5px 5px 5px #DAC0A3;
+}
+
+body{
+    background-color: #F8F0E5;
+    margin: auto;
+}
+
+nav, footer{
+    background-color: #445D48;
+    padding: 10px;
+    padding-top: 15px;
+    text-align: center;
+    color: #DAC0A3;
+}
+
+p{
+    font-size: 120%;
+}
+
+.leiras{
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.cards{
+    margin: auto;
+}

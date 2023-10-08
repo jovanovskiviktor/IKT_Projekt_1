@@ -14,8 +14,13 @@ body{
     background-color: #F8F0E5;
 }
 
-nav{
+nav, footer{
     background-color: #445D48;
+    padding: 10px;
+    padding-top: 15px;
+    text-align: center;
+    color: #DAC0A3;
+    width: 100%;
 }
 
 h2{
@@ -51,12 +56,7 @@ h3 {
     font-size: 140%;
 }
 
-#footer {
-    background-color: #445D48;
-    text-align: center;
-    padding: 10px;
-    color: #fff;
-}
+
 .viktor_img{
     width: 600px;
 }

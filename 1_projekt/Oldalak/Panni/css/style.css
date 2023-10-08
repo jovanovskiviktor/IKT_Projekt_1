@@ -13,6 +13,7 @@ h1{
 
 body{
     background-color: #F8F0E5;
+    margin: auto;
 }
 
 nav, footer{
@@ -75,6 +76,42 @@ h3 {
     margin-left: 100px;
 }
 
-.card img{
-    
+.card li:hover{
+    background-color: #445D48;
+    opacity: 0.5;
+    margin: 5px;
+    padding: 5px;
+    color:#DAC0A3;
+    font-weight: bolder;
+    box-shadow: 3px 3px 3px grey;
+}
+
+.card a{
+    text-decoration: none;
+    color: #001524;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.card a:hover{
+    font-weight: bold;
+    background-color: #DAC0A3;
+    color: #445D48;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 3px 3px 3px grey;
+    border-radius: 3px;
+
+}
+
+.card{
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+.card-title{
+    font-size: 1.5rem;
+    color: #445D48;
 }

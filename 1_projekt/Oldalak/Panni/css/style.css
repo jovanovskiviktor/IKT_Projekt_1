@@ -90,8 +90,14 @@ h3 {
     text-decoration: none;
     color: #001524;
     margin: 5px;
-    padding: 5px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     text-align: center;
+    background-color:#445D48;
+    color: #DAC0A3;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px gray;
 }
 
 .card a:hover{
@@ -99,9 +105,12 @@ h3 {
     background-color: #DAC0A3;
     color: #445D48;
     margin: 5px;
-    padding: 5px;
+    padding: 10px;
     box-shadow: 3px 3px 3px grey;
     border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
 
 }
 

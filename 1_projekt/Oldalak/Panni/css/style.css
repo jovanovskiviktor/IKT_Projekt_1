@@ -136,3 +136,7 @@ h3 {
     width: auto;
     display: block;
 }
+
+footer a{
+    text-decoration: none;
+}

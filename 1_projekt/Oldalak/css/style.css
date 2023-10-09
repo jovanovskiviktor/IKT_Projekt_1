@@ -49,3 +49,44 @@ p{
     width: auto;
     display: block;
 }
+
+footer{
+    margin-top: 105px;
+}
+
+.card a{
+    text-decoration: none;
+    color: #001524;
+    margin: 5px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    background-color:#445D48;
+    color: #DAC0A3;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.card a:hover{
+    font-weight: bold;
+    background-color: #DAC0A3;
+    color: #445D48;
+    padding: 10px;
+    box-shadow: 3px 3px 3px grey;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+
+}
+
+.card{
+    border-radius: 5px;
+
+}
+
+.card-title{
+    font-size: 1.5rem;
+    color: #445D48;
+}

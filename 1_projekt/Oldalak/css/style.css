@@ -62,4 +62,9 @@ p{
     border-radius: 3px;
     padding-left: 10px;
     padding-right: 10px;
-    border-radius: 7px;}
+    border-radius: 7px;
+}
+
+footer{
+    margin-top: 125px;
+}

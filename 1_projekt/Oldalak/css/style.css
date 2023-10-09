@@ -45,14 +45,3 @@ p{
 
 }
 
-.card img{
-    width: auto;
-    display: block;
-}
-
-img{
-    border-radius: 20px;
-    box-shadow: 5px 5px 3px grey;
-    max-height: 500px;
-    display: block;
-}

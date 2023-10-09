@@ -47,12 +47,22 @@ p{
     font-size: 120%;
 }
 
-.img{
+
+#pasta, #tiramisu, #platter{
     border-radius: 20px;
     box-shadow: 5px 5px 3px grey;
     max-height: 500px;
     display: block;
+}
 
+#tiramisu{
+    margin-top: 100px;
+}
+
+#platter{
+    height: 400px;
+    margin: 15px;
+    margin-bottom: 25px;
 }
 
 h3 {
@@ -65,10 +75,7 @@ h3 {
     text-align: center;
 }
 
-#platter{
-    
-    margin-left: 100px;
-}
+
 
 #bor{
     margin: auto;
@@ -123,4 +130,9 @@ h3 {
 .card-title{
     font-size: 1.5rem;
     color: #445D48;
+}
+
+.card img{
+    width: auto;
+    display: block;
 }
